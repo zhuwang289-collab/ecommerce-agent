@@ -1,0 +1,29 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip *)",
+      "PowerShell(pip install *)",
+      "PowerShell(venv\\\\Scripts\\\\python.exe -m pip install --upgrade pip -q)",
+      "PowerShell(venv\\\\Scripts\\\\python.exe -m pip install -r requirements.txt)",
+      "PowerShell(venv\\\\Scripts\\\\python.exe -m playwright install chromium)",
+      "PowerShell(venv\\\\Scripts\\\\python.exe src/main.py)",
+      "PowerShell(venv\\\\Scripts\\\\python.exe -c \"import openai; import dotenv; import playwright; import bs4; import requests; import rich; import pydantic; print\\('所有依赖导入成功'\\)\")",
+      "PowerShell($OutputEncoding = [Console]::OutputEncoding = [Text.UTF8Encoding]::new\\(\\); venv\\\\Scripts\\\\python.exe -c \"import openai, dotenv, playwright, bs4, requests, rich, pydantic; print\\('All imports OK'\\)\")",
+      "PowerShell($OutputEncoding = [Console]::OutputEncoding = [Text.UTF8Encoding]::new\\(\\); venv\\\\Scripts\\\\python.exe src/main.py)",
+      "PowerShell($env:PYTHONIOENCODING='utf-8'; & venv\\\\Scripts\\\\python.exe src/main.py)",
+      "PowerShell(venv\\\\Scripts\\\\python.exe -m pip install playwright-stealth -q)",
+      "PowerShell(mkdir *)",
+      "Bash(curl -s https://books.toscrape.com/)",
+      "PowerShell($env:PYTHONIOENCODING='utf-8'; venv\\\\Scripts\\\\python.exe -c \"import asyncio; from src.scraper import run; asyncio.run\\(run\\(\\)\\)\")",
+      "PowerShell($env:PYTHONIOENCODING='utf-8'; venv\\\\Scripts\\\\python.exe src/main.py)",
+      "PowerShell($env:PYTHONIOENCODING='utf-8'; venv\\\\Scripts\\\\python.exe -c \"import json; data=json.load\\(open\\('data/optimized_products.json','r',encoding='utf-8'\\)\\); [print\\(json.dumps\\({'title':d['title'],'optimized':d.get\\('optimized_title',''\\),'price':d['price'],'suggested':d['suggested_price']},ensure_ascii=False\\)\\) for d in data[:5]]\")",
+      "Bash(python *)",
+      "Bash(curl -s https://books.toscrape.com/catalogue/page-2.html)",
+      "Bash(curl -s https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html)",
+      "Bash(curl -s https://books.toscrape.com/index.html)",
+      "PowerShell(venv\\\\Scripts\\\\python.exe -m pip install openpyxl -q)",
+      "WebFetch(domain:fakestoreapi.com)",
+      "Bash(curl -s https://fakestoreapi.com/products)"
+    ]
+  }
+}
