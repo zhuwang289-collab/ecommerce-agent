@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "智能保温杯",
+    "regular_price": "129.00",
+    "price": "129.00",
+    "description": "高品质304不锈钢智能保温杯，24小时保温保冷。容量：500ml",
+    "sku": "TEST-CUP-001",
+    "stock_quantity": 200,
+    "type": "simple",
+    "status": "publish"
+  },
+  {
+    "id": 2,
+    "name": "蓝牙耳机 Pro",
+    "regular_price": "259.00",
+    "price": "259.00",
+    "description": "真无线蓝牙耳机，主动降噪，续航30小时。",
+    "sku": "TEST-EAR-001",
+    "stock_quantity": 150,
+    "type": "simple",
+    "status": "publish"
+  },
+  {
+    "id": 3,
+    "name": "瑜伽垫加厚",
+    "regular_price": "79.90",
+    "price": "79.90",
+    "description": "TPE环保材质，加厚10mm防滑瑜伽垫，送收纳袋。",
+    "sku": "TEST-YOGA-001",
+    "stock_quantity": 300,
+    "type": "simple",
+    "status": "publish"
+  },
+  {
+    "id": 4,
+    "name": "【异常】特价促销 T 恤",
+    "regular_price": "49.00",
+    "price": "0.50",
+    "description": "超低价促销，测试用。",
+    "sku": "TEST-CHEAP-001",
+    "stock_quantity": 10,
+    "type": "simple",
+    "status": "publish"
+  },
+  {
+    "id": 5,
+    "name": "【异常】高价耳机",
+    "regular_price": "199.00",
+    "price": "399.00",
+    "description": "价格异常测试用。",
+    "sku": "TEST-HIGH-001",
+    "stock_quantity": 3,
+    "type": "simple",
+    "status": "publish"
+  },
+  {
+    "id": 6,
+    "name": "【异常】草稿商品-未发布",
+    "regular_price": "35.00",
+    "price": "35.00",
+    "description": "草稿状态商品，测试用。",
+    "sku": "TEST-DRAFT-001",
+    "stock_quantity": 20,
+    "type": "simple",
+    "status": "draft"
+  }
+]

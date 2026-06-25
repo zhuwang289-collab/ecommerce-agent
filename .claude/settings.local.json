@@ -23,7 +23,10 @@
       "Bash(curl -s https://books.toscrape.com/index.html)",
       "PowerShell(venv\\\\Scripts\\\\python.exe -m pip install openpyxl -q)",
       "WebFetch(domain:fakestoreapi.com)",
-      "Bash(curl -s https://fakestoreapi.com/products)"
+      "Bash(curl -s https://fakestoreapi.com/products)",
+      "Bash(set PYTHONIOENCODING=utf-8)",
+      "PowerShell(cd D:\\\\ecommerce-agent; $OutputEncoding = [console]::OutputEncoding = [Text.Encoding]::UTF8; python src/customer_service.py --demo 2>&1)",
+      "PowerShell(cd D:\\\\ecommerce-agent; $OutputEncoding = [Console]::OutputEncoding = [Text.Encoding]::UTF8; python src\\\\customer_service.py --demo 2>&1 | ForEach-Object { $_ -replace '[^\\\\x20-\\\\x7E一-鿿　-〿＀-￯]', '?' })"
     ]
   }
 }

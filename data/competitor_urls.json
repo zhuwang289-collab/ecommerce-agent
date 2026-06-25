@@ -1,0 +1,54 @@
+[
+  {
+    "name": "奇幻小说 - Fantasy Books",
+    "url": "https://books.toscrape.com/catalogue/category/books/fantasy_19/index.html",
+    "selectors": {
+      "product_container": ".product_pod",
+      "title": "h3 a",
+      "title_attr": "title",
+      "price": ".price_color",
+      "stock": ".instock",
+      "link": "h3 a",
+      "link_attr": "href"
+    }
+  },
+  {
+    "name": "科幻小说 - Science Books",
+    "url": "https://books.toscrape.com/catalogue/category/books/science_22/index.html",
+    "selectors": {
+      "product_container": ".product_pod",
+      "title": "h3 a",
+      "title_attr": "title",
+      "price": ".price_color",
+      "stock": ".instock",
+      "link": "h3 a",
+      "link_attr": "href"
+    }
+  },
+  {
+    "name": "恐怖小说 - Horror Books",
+    "url": "https://books.toscrape.com/catalogue/category/books/horror_31/index.html",
+    "selectors": {
+      "product_container": ".product_pod",
+      "title": "h3 a",
+      "title_attr": "title",
+      "price": ".price_color",
+      "stock": ".instock",
+      "link": "h3 a",
+      "link_attr": "href"
+    }
+  },
+  {
+    "name": "爱情小说 - Romance Books",
+    "url": "https://books.toscrape.com/catalogue/category/books/romance_8/index.html",
+    "selectors": {
+      "product_container": ".product_pod",
+      "title": "h3 a",
+      "title_attr": "title",
+      "price": ".price_color",
+      "stock": ".instock",
+      "link": "h3 a",
+      "link_attr": "href"
+    }
+  }
+]

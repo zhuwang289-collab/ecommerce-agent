@@ -1,6 +1,7 @@
 """主流程 — 爬虫 → 优化 → 抖店上架 → 展示 → Excel 导出"""
 
 import sys
+import argparse
 from pathlib import Path
 
 from dotenv import load_dotenv
@@ -144,6 +145,26 @@ def export_to_excel(products: list[dict],
 # ── 主流程 ───────────────────────────────────────────────
 
 def main() -> None:
+    # ── 命令行参数解析（预留客服模式入口） ──
+    parser = argparse.ArgumentParser(description="电商自动化运营 Agent")
+    parser.add_argument(
+        "--mode", type=str, choices=["full", "chat"], default="full",
+        help='运行模式: "full" 全流程（默认）, "chat" 智能客服（预留）',
+    )
+    args, _ = parser.parse_known_args()
+
+    if args.mode == "chat":
+        console.print(
+            Panel.fit(
+                "[智能客服模式]\n\n"
+                "请使用以下命令启动客服：\n"
+                "[bold yellow]python src/customer_service.py[/]  交互模式\n"
+                "[bold yellow]python src/customer_service.py --demo[/]  Demo 演示\n",
+                border_style="bold cyan",
+            )
+        )
+        return
+
     console.print(Panel.fit("🛒  E-commerce Automation Agent", border_style="bold green"))
 
     # ---------- Phase 1: 爬虫 ----------

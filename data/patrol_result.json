@@ -1,0 +1,21 @@
+{
+  "patrol_time": "2026-06-25T13:06:15",
+  "total_checked": 5,
+  "anomalies": [
+    {
+      "product_id": 54,
+      "name": "OAuth Test Product",
+      "type": "stock_unmanaged",
+      "severity": "info",
+      "detail": "未启用库存管理（stock_quantity 为空）"
+    }
+  ],
+  "summary": {
+    "total": 1,
+    "price_too_low": 0,
+    "price_too_high": 0,
+    "stock_low": 0,
+    "stock_unmanaged": 1,
+    "status_alert": 0
+  }
+}

@@ -1,0 +1,395 @@
+{
+  "timestamp": "2026-06-25T13:21:05",
+  "competitors": [
+    {
+      "competitor_name": "奇幻小说 - Fantasy Books",
+      "url": "https://books.toscrape.com/catalogue/category/books/fantasy_19/index.html",
+      "error": null,
+      "scraped_at": "2026-06-25T13:20:51",
+      "products": [
+        {
+          "title": "Unicorn Tracks",
+          "price": 18.78,
+          "price_raw": "£18.78",
+          "image_url": "https://books.toscrape.com/media/cache/76/8e/768ea5924ac1ef6297c2be9959c796c2.jpg",
+          "in_stock": true,
+          "stock_text": "In stock",
+          "dropshipping": false,
+          "link": "https://books.toscrape.com/catalogue/unicorn-tracks_951/index.html",
+          "rating": "Three"
+        },
+        {
+          "title": "Saga, Volume 6 (Saga (Collected Editions) #6)",
+          "price": 25.02,
+          "price_raw": "£25.02",
+          "image_url": "https://books.toscrape.com/media/cache/43/ae/43aee83ebb31e2122a7215e413770e5c.jpg",
+          "in_stock": true,
+          "stock_text": "In stock",
+          "dropshipping": false,
+          "link": "https://books.toscrape.com/catalogue/saga-volume-6-saga-collected-editions-6_924/index.html",
+          "rating": "Three"
+        },
+        {
+          "title": "Princess Between Worlds (Wide-Awake Princess #5)",
+          "price": 13.34,
+          "price_raw": "£13.34",
+          "image_url": "https://books.toscrape.com/media/cache/b7/e8/b7e84b78be3d9bb79b71156a5e5d4e42.jpg",
+          "in_stock": true,
+          "stock_text": "In stock",
+          "dropshipping": false,
+          "link": "https://books.toscrape.com/catalogue/princess-between-worlds-wide-awake-princess-5_919/index.html",
+          "rating": "Five"
+        },
+        {
+          "title": "Masks and Shadows",
+          "price": 56.4,
+          "price_raw": "£56.40",
+          "image_url": "https://books.toscrape.com/media/cache/ff/e8/ffe81bf98f8386ef29e193abfb6f9c1e.jpg",
+          "in_stock": true,
+          "stock_text": "In stock",
+          "dropshipping": false,
+          "link": "https://books.toscrape.com/catalogue/masks-and-shadows_909/index.html",
+          "rating": "Two"
+        },
+        {
+          "title": "Crown of Midnight (Throne of Glass #2)",
+          "price": 43.29,
+          "price_raw": "£43.29",
+          "image_url": "https://books.toscrape.com/media/cache/66/25/6625e3bbb050de3e42a0c302c0d69f1f.jpg",
+          "in_stock": true,
+          "stock_text": "In stock",
+          "dropshipping": false,
+          "link": "https://books.toscrape.com/catalogue/crown-of-midnight-throne-of-glass-2_888/index.html",
+          "rating": "Three"
+        },
+        {
+          "title": "Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)",
+          "price": 28.09,
+          "price_raw": "£28.09",
+          "image_url": "https://books.toscrape.com/media/cache/06/18/061811c5845d0e13bc04b2a755f0830f.jpg",
+          "in_stock": true,
+          "stock_text": "In stock",
+          "dropshipping": false,
+          "link": "https://books.toscrape.com/catalogue/avatar-the-last-airbender-smoke-and-shadow-part-3-smoke-and-shadow-3_881/index.html",
+          "rating": "Two"
+        },
+        {
+          "title": "A Court of Thorns and Roses (A Court of Thorns and Roses #1)",
+          "price": 52.37,
+          "price_raw": "£52.37",
+          "image_url": "https://books.toscrape.com/media/cache/c0/88/c08816960890396213a423941af65b8f.jpg",
+          "in_stock": true,
+          "stock_text": "In stock",
+          "dropshipping": false,
+          "link": "https://books.toscrape.com/catalogue/a-court-of-thorns-and-roses-a-court-of-thorns-and-roses-1_874/index.html",
+          "rating": "One"
+        },
+        {
+          "title": "Throne of Glass (Throne of Glass #1)",
+          "price": 35.07,
+          "price_raw": "£35.07",
+          "image_url": "https://books.toscrape.com/media/cache/32/d6/32d6aa560e8ddf2a4da1526b95d4c7ab.jpg",
+          "in_stock": true,
+          "stock_text": "In stock",
+          "dropshipping": false,
+          "link": "https://books.toscrape.com/catalogue/throne-of-glass-throne-of-glass-1_868/index.html",
+          "rating": "Three"
+        },
+        {
+          "title": "The Glittering Court (The Glittering Court #1)",
+          "price": 44.28,
+          "price_raw": "£44.28",
+          "image_url": "https://books.toscrape.com/media/cache/3e/0b/3e0b16851bec08b6cbf78d5f64af9114.jpg",
+          "in_stock": true,
+          "stock_text": "In stock",
+          "dropshipping": false,
+          "link": "https://books.toscrape.com/catalogue/the-glittering-court-the-glittering-court-1_845/index.html",
+          "rating": "One"
+        },
+        {
+          "title": "Hollow City (Miss Peregrine’s Peculiar Children #2)",
+          "price": 42.98,
+          "price_raw": "£42.98",
+          "image_url": "https://books.toscrape.com/media/cache/e2/60/e260b008b7ea7970562295b7bc64b0cb.jpg",
+          "in_stock": true,
+          "stock_text": "In stock",
+          "dropshipping": false,
+          "link": "https://books.toscrape.com/catalogue/hollow-city-miss-peregrines-peculiar-children-2_813/index.html",
+          "rating": "One"
+        },
+        {
+          "title": "The Star-Touched Queen",
+          "price": 46.02,
+          "price_raw": "£46.02",
+          "image_url": "https://books.toscrape.com/media/cache/53/5e/535e2be0b423797c2cdc7d98882c820a.jpg",
+          "in_stock": true,
+          "stock_text": "In stock",
+          "dropshipping": false,
+          "link": "https://books.toscrape.com/catalogue/the-star-touched-queen_764/index.html",
+          "rating": "Five"
+        },
+        {
+          "title": "The Hidden Oracle (The Trials of Apollo #1)",
+          "price": 52.26,
+          "price_raw": "£52.26",
+          "image_url": "https://books.toscrape.com/media/cache/b4/67/b467a4f01ca6ae8464b9425a156c7c32.jpg",
+          "in_stock": true,
+          "stock_text": "In stock",
+          "dropshipping": false,
+          "link": "https://books.toscrape.com/catalogue/the-hidden-oracle-the-trials-of-apollo-1_752/index.html",
+          "rating": "Two"
+        },
+        {
+          "title": "The Bane Chronicles (The Bane Chronicles #1-11)",
+          "price": 44.73,
+          "price_raw": "£44.73",
+          "image_url": "https://books.toscrape.com/media/cache/9a/33/9a333c4a06ce187c5c9d2f5969ddcac2.jpg",
+          "in_stock": true,
+          "stock_text": "In stock",
+          "dropshipping": false,
+          "link": "https://books.toscrape.com/catalogue/the-bane-chronicles-the-bane-chronicles-1-11_746/index.html",
+          "rating": "Four"
+        },
+        {
+          "title": "Island of Dragons (Unwanteds #7)",
+          "price": 29.65,
+          "price_raw": "£29.65",
+          "image_url": "https://books.toscrape.com/media/cache/75/b9/75b99691594fde72ccb1831624cfeff6.jpg",
+          "in_stock": true,
+          "stock_text": "In stock",
+          "dropshipping": false,
+          "link": "https://books.toscrape.com/catalogue/island-of-dragons-unwanteds-7_705/index.html",
+          "rating": "One"
+        },
+        {
+          "title": "Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3)",
+          "price": 37.51,
+          "price_raw": "£37.51",
+          "image_url": "https://books.toscrape.com/media/cache/8f/80/8f8074d9f035c2a0ef8595ad89f7bcc8.jpg",
+          "in_stock": true,
+          "stock_text": "In stock",
+          "dropshipping": false,
+          "link": "https://books.toscrape.com/catalogue/demigods-magicians-percy-and-annabeth-meet-the-kanes-percy-jackson-kane-chronicles-crossover-1-3_685/index.html",
+          "rating": "Five"
+        },
+        {
+          "title": "City of Glass (The Mortal Instruments #3)",
+          "price": 56.02,
+          "price_raw": "£56.02",
+          "image_url": "https://books.toscrape.com/media/cache/00/08/0008e65aa431ed3625ad3a4352f8e90d.jpg",
+          "in_stock": true,
+          "stock_text": "In stock",
+          "dropshipping": false,
+          "link": "https://books.toscrape.com/catalogue/city-of-glass-the-mortal-instruments-3_678/index.html",
+          "rating": "Four"
+        },
+        {
+          "title": "Searching for Meaning in Gailana",
+          "price": 38.73,
+          "price_raw": "£38.73",
+          "image_url": "https://books.toscrape.com/media/cache/3b/04/3b045fe0394dc192950a0ec9e3812fe4.jpg",
+          "in_stock": true,
+          "stock_text": "In stock",
+          "dropshipping": false,
+          "link": "https://books.toscrape.com/catalogue/searching-for-meaning-in-gailana_648/index.html",
+          "rating": "One"
+        },
+        {
+          "title": "The Star-Touched Queen",
+          "price": 32.3,
+          "price_raw": "£32.30",
+          "image_url": "https://books.toscrape.com/media/cache/d3/0d/d30dd8b6be6f9fcfd17178e8083238b6.jpg",
+          "in_stock": true,
+          "stock_text": "In stock",
+          "dropshipping": false,
+          "link": "https://books.toscrape.com/catalogue/the-star-touched-queen_642/index.html",
+          "rating": "Five"
+        },
+        {
+          "title": "A Shard of Ice (The Black Symphony Saga #1)",
+          "price": 56.63,
+          "price_raw": "£56.63",
+          "image_url": "https://books.toscrape.com/media/cache/27/64/27649cb5da52970f4bb2fc5234a48578.jpg",
+          "in_stock": true,
+          "stock_text": "In stock",
+          "dropshipping": false,
+          "link": "https://books.toscrape.com/catalogue/a-shard-of-ice-the-black-symphony-saga-1_558/index.html",
+          "rating": "Three"
+        },
+        {
+          "title": "King's Folly (The Kinsman Chronicles #1)",
+          "price": 39.61,
+          "price_raw": "£39.61",
+          "image_url": "https://books.toscrape.com/media/cache/3e/2d/3e2d526ee062008ab1cbf54f90a5abb2.jpg",
+          "in_stock": true,
+          "stock_text": "In stock",
+          "dropshipping": false,
+          "link": "https://books.toscrape.com/catalogue/kings-folly-the-kinsman-chronicles-1_473/index.html",
+          "rating": "Five"
+        }
+      ]
+    },
+    {
+      "competitor_name": "科幻小说 - Science Books",
+      "url": "https://books.toscrape.com/catalogue/category/books/science_22/index.html",
+      "error": null,
+      "scraped_at": "2026-06-25T13:21:00",
+      "products": [
+        {
+          "title": "The Most Perfect Thing: Inside (and Outside) a Bird's Egg",
+          "price": 42.96,
+          "price_raw": "£42.96",
+          "image_url": "https://books.toscrape.com/media/cache/d4/8d/d48d5122a15347e9fe2b15ad354d69bf.jpg",
+          "in_stock": true,
+          "stock_text": "In stock",
+          "dropshipping": false,
+          "link": "https://books.toscrape.com/catalogue/the-most-perfect-thing-inside-and-outside-a-birds-egg_938/index.html",
+          "rating": "Four"
+        },
+        {
+          "title": "Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine",
+          "price": 57.36,
+          "price_raw": "£57.36",
+          "image_url": "https://books.toscrape.com/media/cache/26/1c/261c4eaf957ae4aacf2229b482e76dbe.jpg",
+          "in_stock": true,
+          "stock_text": "In stock",
+          "dropshipping": false,
+          "link": "https://books.toscrape.com/catalogue/immunity-how-elie-metchnikoff-changed-the-course-of-modern-medicine_900/index.html",
+          "rating": "Five"
+        },
+        {
+          "title": "Sorting the Beef from the Bull: The Science of Food Fraud Forensics",
+          "price": 44.74,
+          "price_raw": "£44.74",
+          "image_url": "https://books.toscrape.com/media/cache/68/ca/68caaf9ac41964d5167a3eb67c638393.jpg",
+          "in_stock": true,
+          "stock_text": "In stock",
+          "dropshipping": false,
+          "link": "https://books.toscrape.com/catalogue/sorting-the-beef-from-the-bull-the-science-of-food-fraud-forensics_736/index.html",
+          "rating": "Four"
+        },
+        {
+          "title": "Tipping Point for Planet Earth: How Close Are We to the Edge?",
+          "price": 37.55,
+          "price_raw": "£37.55",
+          "image_url": "https://books.toscrape.com/media/cache/56/97/5697f2f8f628129df01c5790985ffd9b.jpg",
+          "in_stock": true,
+          "stock_text": "In stock",
+          "dropshipping": false,
+          "link": "https://books.toscrape.com/catalogue/tipping-point-for-planet-earth-how-close-are-we-to-the-edge_643/index.html",
+          "rating": "One"
+        },
+        {
+          "title": "The Fabric of the Cosmos: Space, Time, and the Texture of Reality",
+          "price": 55.91,
+          "price_raw": "£55.91",
+          "image_url": "https://books.toscrape.com/media/cache/5e/7f/5e7f7d9913d4c95d33904770c518d537.jpg",
+          "in_stock": true,
+          "stock_text": "In stock",
+          "dropshipping": false,
+          "link": "https://books.toscrape.com/catalogue/the-fabric-of-the-cosmos-space-time-and-the-texture-of-reality_572/index.html",
+          "rating": "One"
+        },
+        {
+          "title": "Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World",
+          "price": 28.41,
+          "price_raw": "£28.41",
+          "image_url": "https://books.toscrape.com/media/cache/33/4f/334fd0ebdf0c0192baf5914d199c53b5.jpg",
+          "in_stock": true,
+          "stock_text": "In stock",
+          "dropshipping": false,
+          "link": "https://books.toscrape.com/catalogue/diary-of-a-citizen-scientist-chasing-tiger-beetles-and-other-new-ways-of-engaging-the-world_517/index.html",
+          "rating": "One"
+        },
+        {
+          "title": "The Origin of Species",
+          "price": 10.01,
+          "price_raw": "£10.01",
+          "image_url": "https://books.toscrape.com/media/cache/da/0d/da0d13699a090516502257a4d7da623f.jpg",
+          "in_stock": true,
+          "stock_text": "In stock",
+          "dropshipping": false,
+          "link": "https://books.toscrape.com/catalogue/the-origin-of-species_499/index.html",
+          "rating": "Four"
+        },
+        {
+          "title": "The Grand Design",
+          "price": 13.76,
+          "price_raw": "£13.76",
+          "image_url": "https://books.toscrape.com/media/cache/08/a9/08a957eb34f8047862e225774c3bdde2.jpg",
+          "in_stock": true,
+          "stock_text": "In stock",
+          "dropshipping": false,
+          "link": "https://books.toscrape.com/catalogue/the-grand-design_405/index.html",
+          "rating": "Three"
+        },
+        {
+          "title": "Peak: Secrets from the New Science of Expertise",
+          "price": 16.28,
+          "price_raw": "£16.28",
+          "image_url": "https://books.toscrape.com/media/cache/83/ab/83ab65f938b24fa1a9cb47235be49b57.jpg",
+          "in_stock": true,
+          "stock_text": "In stock",
+          "dropshipping": false,
+          "link": "https://books.toscrape.com/catalogue/peak-secrets-from-the-new-science-of-expertise_389/index.html",
+          "rating": "Two"
+        },
+        {
+          "title": "The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",
+          "price": 13.03,
+          "price_raw": "£13.03",
+          "image_url": "https://books.toscrape.com/media/cache/69/c8/69c83860995cde393dbe6690ec3f1d4f.jpg",
+          "in_stock": true,
+          "stock_text": "In stock",
+          "dropshipping": false,
+          "link": "https://books.toscrape.com/catalogue/the-elegant-universe-superstrings-hidden-dimensions-and-the-quest-for-the-ultimate-theory_245/index.html",
+          "rating": "Four"
+        },
+        {
+          "title": "The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",
+          "price": 57.35,
+          "price_raw": "£57.35",
+          "image_url": "https://books.toscrape.com/media/cache/f9/69/f969969428b505970a46272fdcea00d3.jpg",
+          "in_stock": true,
+          "stock_text": "In stock",
+          "dropshipping": false,
+          "link": "https://books.toscrape.com/catalogue/the-disappearing-spoon-and-other-true-tales-of-madness-love-and-the-history-of-the-world-from-the-periodic-table-of-the-elements_244/index.html",
+          "rating": "Five"
+        },
+        {
+          "title": "Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character",
+          "price": 25.83,
+          "price_raw": "£25.83",
+          "image_url": "https://books.toscrape.com/media/cache/f8/bc/f8bcd489d33473e0819beaecccd5ebac.jpg",
+          "in_stock": true,
+          "stock_text": "In stock",
+          "dropshipping": false,
+          "link": "https://books.toscrape.com/catalogue/surely-youre-joking-mr-feynman-adventures-of-a-curious-character_227/index.html",
+          "rating": "Two"
+        },
+        {
+          "title": "Seven Brief Lessons on Physics",
+          "price": 30.6,
+          "price_raw": "£30.60",
+          "image_url": "https://books.toscrape.com/media/cache/c8/63/c863c222c130a1bc8685a1242dd2523d.jpg",
+          "in_stock": true,
+          "stock_text": "In stock",
+          "dropshipping": false,
+          "link": "https://books.toscrape.com/catalogue/seven-brief-lessons-on-physics_219/index.html",
+          "rating": "Four"
+        },
+        {
+          "title": "The Selfish Gene",
+          "price": 29.45,
+          "price_raw": "£29.45",
+          "image_url": "https://books.toscrape.com/media/cache/08/14/0814f26516fb72b7391d0a742b5928a2.jpg",
+          "in_stock": true,
+          "stock_text": "In stock",
+          "dropshipping": false,
+          "link": "https://books.toscrape.com/catalogue/the-selfish-gene_81/index.html",
+          "rating": "One"
+        }
+      ]
+    }
+  ]
+}

@@ -4,441 +4,373 @@
     "price": 18.78,
     "currency": "USD",
     "description": "来自竞品监控",
-    "category": "Fantasy Books",
+    "category": "奇幻小说 - Fantasy Books",
     "image_url": "https://books.toscrape.com/media/cache/76/8e/768ea5924ac1ef6297c2be9959c796c2.jpg",
     "detail_url": "https://books.toscrape.com/catalogue/unicorn-tracks_951/index.html",
     "stock_status": "In stock",
-    "upc": "2001",
-    "optimized_title": "Unicorn Tracks Fantasy Adventure Quest",
-    "suggested_price": 22.99
+    "upc": "2001"
   },
   {
     "title": "Saga, Volume 6 (Saga (Collected Editions) #6)",
     "price": 25.02,
     "currency": "USD",
     "description": "来自竞品监控",
-    "category": "Science Fiction & Fantasy Graphic Novels",
+    "category": "奇幻小说 - Fantasy Books",
     "image_url": "https://books.toscrape.com/media/cache/43/ae/43aee83ebb31e2122a7215e413770e5c.jpg",
     "detail_url": "https://books.toscrape.com/catalogue/saga-volume-6-saga-collected-editions-6_924/index.html",
     "stock_status": "In stock",
-    "upc": "2002",
-    "optimized_title": "Saga Vol. 6: Epic Space Fantasy Adventure",
-    "suggested_price": 29.99
+    "upc": "2002"
   },
   {
     "title": "Princess Between Worlds (Wide-Awake Princess #5)",
     "price": 13.34,
     "currency": "USD",
     "description": "来自竞品监控",
-    "category": "Fantasy & Magic",
+    "category": "奇幻小说 - Fantasy Books",
     "image_url": "https://books.toscrape.com/media/cache/b7/e8/b7e84b78be3d9bb79b71156a5e5d4e42.jpg",
     "detail_url": "https://books.toscrape.com/catalogue/princess-between-worlds-wide-awake-princess-5_919/index.html",
     "stock_status": "In stock",
-    "upc": "2003",
-    "optimized_title": "Princess Between Worlds: Magic & Mystery",
-    "suggested_price": 16.99
+    "upc": "2003"
   },
   {
     "title": "Masks and Shadows",
     "price": 56.4,
     "currency": "USD",
     "description": "来自竞品监控",
-    "category": "Fantasy Fiction",
+    "category": "奇幻小说 - Fantasy Books",
     "image_url": "https://books.toscrape.com/media/cache/ff/e8/ffe81bf98f8386ef29e193abfb6f9c1e.jpg",
     "detail_url": "https://books.toscrape.com/catalogue/masks-and-shadows_909/index.html",
     "stock_status": "In stock",
-    "upc": "2004",
-    "optimized_title": "Masks and Shadows – Dark Fantasy Epic",
-    "suggested_price": 67.95
+    "upc": "2004"
   },
   {
     "title": "Crown of Midnight (Throne of Glass #2)",
     "price": 43.29,
     "currency": "USD",
     "description": "来自竞品监控",
-    "category": "Fantasy & Adventure",
+    "category": "奇幻小说 - Fantasy Books",
     "image_url": "https://books.toscrape.com/media/cache/66/25/6625e3bbb050de3e42a0c302c0d69f1f.jpg",
     "detail_url": "https://books.toscrape.com/catalogue/crown-of-midnight-throne-of-glass-2_888/index.html",
     "stock_status": "In stock",
-    "upc": "2005",
-    "optimized_title": "Crown of Midnight: Throne of Glass #2",
-    "suggested_price": 51.99
+    "upc": "2005"
   },
   {
     "title": "Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)",
     "price": 28.09,
     "currency": "USD",
     "description": "来自竞品监控",
-    "category": "Graphic Novels & Manga",
+    "category": "奇幻小说 - Fantasy Books",
     "image_url": "https://books.toscrape.com/media/cache/06/18/061811c5845d0e13bc04b2a755f0830f.jpg",
     "detail_url": "https://books.toscrape.com/catalogue/avatar-the-last-airbender-smoke-and-shadow-part-3-smoke-and-shadow-3_881/index.html",
     "stock_status": "In stock",
-    "upc": "2006",
-    "optimized_title": "Avatar: Last Airbender: Smoke & Shadow #3",
-    "suggested_price": 33.99
+    "upc": "2006"
   },
   {
     "title": "A Court of Thorns and Roses (A Court of Thorns and Roses #1)",
     "price": 52.37,
     "currency": "USD",
     "description": "来自竞品监控",
-    "category": "Fantasy Romance",
+    "category": "奇幻小说 - Fantasy Books",
     "image_url": "https://books.toscrape.com/media/cache/c0/88/c08816960890396213a423941af65b8f.jpg",
     "detail_url": "https://books.toscrape.com/catalogue/a-court-of-thorns-and-roses-a-court-of-thorns-and-roses-1_874/index.html",
     "stock_status": "In stock",
-    "upc": "2007",
-    "optimized_title": "A Court of Thorns and Roses Fantasy Romance",
-    "suggested_price": 62.95
+    "upc": "2007"
   },
   {
     "title": "Throne of Glass (Throne of Glass #1)",
     "price": 35.07,
     "currency": "USD",
     "description": "来自竞品监控",
-    "category": "Fantasy & Adventure Books",
+    "category": "奇幻小说 - Fantasy Books",
     "image_url": "https://books.toscrape.com/media/cache/32/d6/32d6aa560e8ddf2a4da1526b95d4c7ab.jpg",
     "detail_url": "https://books.toscrape.com/catalogue/throne-of-glass-throne-of-glass-1_868/index.html",
     "stock_status": "In stock",
-    "upc": "2008",
-    "optimized_title": "Throne of Glass: A Court of Thorns & Roses Prequel",
-    "suggested_price": 42.0
+    "upc": "2008"
   },
   {
     "title": "The Glittering Court (The Glittering Court #1)",
     "price": 44.28,
     "currency": "USD",
     "description": "来自竞品监控",
-    "category": "Young Adult Fantasy",
+    "category": "奇幻小说 - Fantasy Books",
     "image_url": "https://books.toscrape.com/media/cache/3e/0b/3e0b16851bec08b6cbf78d5f64af9114.jpg",
     "detail_url": "https://books.toscrape.com/catalogue/the-glittering-court-the-glittering-court-1_845/index.html",
     "stock_status": "In stock",
-    "upc": "2009",
-    "optimized_title": "Glittering Court #1: Dazzling Fantasy Romance",
-    "suggested_price": 53.14
+    "upc": "2009"
   },
   {
     "title": "Hollow City (Miss Peregrine’s Peculiar Children #2)",
     "price": 42.98,
     "currency": "USD",
     "description": "来自竞品监控",
-    "category": "Young Adult Fantasy",
+    "category": "奇幻小说 - Fantasy Books",
     "image_url": "https://books.toscrape.com/media/cache/e2/60/e260b008b7ea7970562295b7bc64b0cb.jpg",
     "detail_url": "https://books.toscrape.com/catalogue/hollow-city-miss-peregrines-peculiar-children-2_813/index.html",
     "stock_status": "In stock",
-    "upc": "2010",
-    "optimized_title": "Hollow City: Miss Peregrine's Peculiar Children #2",
-    "suggested_price": 51.99
+    "upc": "2010"
   },
   {
     "title": "The Star-Touched Queen",
     "price": 46.02,
     "currency": "USD",
     "description": "来自竞品监控",
-    "category": "Fantasy Romance",
+    "category": "奇幻小说 - Fantasy Books",
     "image_url": "https://books.toscrape.com/media/cache/53/5e/535e2be0b423797c2cdc7d98882c820a.jpg",
     "detail_url": "https://books.toscrape.com/catalogue/the-star-touched-queen_764/index.html",
     "stock_status": "In stock",
-    "upc": "2011",
-    "optimized_title": "Star-Touched Queen: Enchanting Fantasy Romance",
-    "suggested_price": 55.22
+    "upc": "2011"
   },
   {
     "title": "The Hidden Oracle (The Trials of Apollo #1)",
     "price": 52.26,
     "currency": "USD",
     "description": "来自竞品监控",
-    "category": "Fantasy Books - Young Adult",
+    "category": "奇幻小说 - Fantasy Books",
     "image_url": "https://books.toscrape.com/media/cache/b4/67/b467a4f01ca6ae8464b9425a156c7c32.jpg",
     "detail_url": "https://books.toscrape.com/catalogue/the-hidden-oracle-the-trials-of-apollo-1_752/index.html",
     "stock_status": "In stock",
-    "upc": "2012",
-    "optimized_title": "Apollo's Quest: The Hidden Oracle #1",
-    "suggested_price": 62.95
+    "upc": "2012"
   },
   {
     "title": "The Bane Chronicles (The Bane Chronicles #1-11)",
     "price": 44.73,
     "currency": "USD",
     "description": "来自竞品监控",
-    "category": "Fantasy Books",
+    "category": "奇幻小说 - Fantasy Books",
     "image_url": "https://books.toscrape.com/media/cache/9a/33/9a333c4a06ce187c5c9d2f5969ddcac2.jpg",
     "detail_url": "https://books.toscrape.com/catalogue/the-bane-chronicles-the-bane-chronicles-1-11_746/index.html",
     "stock_status": "In stock",
-    "upc": "2013",
-    "optimized_title": "The Bane Chronicles: Complete 11-Book Set",
-    "suggested_price": 53.95
+    "upc": "2013"
   },
   {
     "title": "Island of Dragons (Unwanteds #7)",
     "price": 29.65,
     "currency": "USD",
     "description": "来自竞品监控",
-    "category": "Fantasy & Magic",
+    "category": "奇幻小说 - Fantasy Books",
     "image_url": "https://books.toscrape.com/media/cache/75/b9/75b99691594fde72ccb1831624cfeff6.jpg",
     "detail_url": "https://books.toscrape.com/catalogue/island-of-dragons-unwanteds-7_705/index.html",
     "stock_status": "In stock",
-    "upc": "2014",
-    "optimized_title": "Island of Dragons: Unwanteds Book 7",
-    "suggested_price": 35.95
+    "upc": "2014"
   },
   {
     "title": "Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3)",
     "price": 37.51,
     "currency": "USD",
     "description": "来自竞品监控",
-    "category": "Fantasy Books",
+    "category": "奇幻小说 - Fantasy Books",
     "image_url": "https://books.toscrape.com/media/cache/8f/80/8f8074d9f035c2a0ef8595ad89f7bcc8.jpg",
     "detail_url": "https://books.toscrape.com/catalogue/demigods-magicians-percy-and-annabeth-meet-the-kanes-percy-jackson-kane-chronicles-crossover-1-3_685/index.html",
     "stock_status": "In stock",
-    "upc": "2015",
-    "optimized_title": "Percy & Annabeth Meet the Kanes: Crossover Set",
-    "suggested_price": 44.99
+    "upc": "2015"
   },
   {
     "title": "City of Glass (The Mortal Instruments #3)",
     "price": 56.02,
     "currency": "USD",
     "description": "来自竞品监控",
-    "category": "Urban Fantasy / Young Adult",
+    "category": "奇幻小说 - Fantasy Books",
     "image_url": "https://books.toscrape.com/media/cache/00/08/0008e65aa431ed3625ad3a4352f8e90d.jpg",
     "detail_url": "https://books.toscrape.com/catalogue/city-of-glass-the-mortal-instruments-3_678/index.html",
     "stock_status": "In stock",
-    "upc": "2016",
-    "optimized_title": "Mortal Instruments 3: City of Glass",
-    "suggested_price": 67.99
+    "upc": "2016"
   },
   {
     "title": "Searching for Meaning in Gailana",
     "price": 38.73,
     "currency": "USD",
     "description": "来自竞品监控",
-    "category": "Fantasy Fiction",
+    "category": "奇幻小说 - Fantasy Books",
     "image_url": "https://books.toscrape.com/media/cache/3b/04/3b045fe0394dc192950a0ec9e3812fe4.jpg",
     "detail_url": "https://books.toscrape.com/catalogue/searching-for-meaning-in-gailana_648/index.html",
     "stock_status": "In stock",
-    "upc": "2017",
-    "optimized_title": "Quest for Meaning in Gailana",
-    "suggested_price": 46.49
+    "upc": "2017"
   },
   {
     "title": "The Star-Touched Queen",
     "price": 32.3,
     "currency": "USD",
     "description": "来自竞品监控",
-    "category": "Fantasy Romance",
+    "category": "奇幻小说 - Fantasy Books",
     "image_url": "https://books.toscrape.com/media/cache/d3/0d/d30dd8b6be6f9fcfd17178e8083238b6.jpg",
     "detail_url": "https://books.toscrape.com/catalogue/the-star-touched-queen_642/index.html",
     "stock_status": "In stock",
-    "upc": "2018",
-    "optimized_title": "Enchanting Star-Touched Queen Fantasy Novel",
-    "suggested_price": 38.99
+    "upc": "2018"
   },
   {
     "title": "A Shard of Ice (The Black Symphony Saga #1)",
     "price": 56.63,
     "currency": "USD",
     "description": "来自竞品监控",
-    "category": "Epic Fantasy",
+    "category": "奇幻小说 - Fantasy Books",
     "image_url": "https://books.toscrape.com/media/cache/27/64/27649cb5da52970f4bb2fc5234a48578.jpg",
     "detail_url": "https://books.toscrape.com/catalogue/a-shard-of-ice-the-black-symphony-saga-1_558/index.html",
     "stock_status": "In stock",
-    "upc": "2019",
-    "optimized_title": "Black Symphony: A Shard of Ice – Epic Fantasy Begins",
-    "suggested_price": 67.95
+    "upc": "2019"
   },
   {
     "title": "King's Folly (The Kinsman Chronicles #1)",
     "price": 39.61,
     "currency": "USD",
     "description": "来自竞品监控",
-    "category": "Fantasy / Epic Fantasy",
+    "category": "奇幻小说 - Fantasy Books",
     "image_url": "https://books.toscrape.com/media/cache/3e/2d/3e2d526ee062008ab1cbf54f90a5abb2.jpg",
     "detail_url": "https://books.toscrape.com/catalogue/kings-folly-the-kinsman-chronicles-1_473/index.html",
     "stock_status": "In stock",
-    "upc": "2020",
-    "optimized_title": "King's Folly: Epic Fantasy Quest Begins",
-    "suggested_price": 47.99
+    "upc": "2020"
   },
   {
     "title": "The Most Perfect Thing: Inside (and Outside) a Bird's Egg",
     "price": 42.96,
     "currency": "USD",
     "description": "来自竞品监控",
-    "category": "Science & Nature",
+    "category": "科幻小说 - Science Books",
     "image_url": "https://books.toscrape.com/media/cache/d4/8d/d48d5122a15347e9fe2b15ad354d69bf.jpg",
     "detail_url": "https://books.toscrape.com/catalogue/the-most-perfect-thing-inside-and-outside-a-birds-egg_938/index.html",
     "stock_status": "In stock",
-    "upc": "2021",
-    "optimized_title": "Inside a Bird's Egg: Nature's Perfect Wonder",
-    "suggested_price": 51.55
+    "upc": "2021"
   },
   {
     "title": "Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine",
     "price": 57.36,
     "currency": "USD",
     "description": "来自竞品监控",
-    "category": "Science & Medicine",
+    "category": "科幻小说 - Science Books",
     "image_url": "https://books.toscrape.com/media/cache/26/1c/261c4eaf957ae4aacf2229b482e76dbe.jpg",
     "detail_url": "https://books.toscrape.com/catalogue/immunity-how-elie-metchnikoff-changed-the-course-of-modern-medicine_900/index.html",
     "stock_status": "In stock",
-    "upc": "2022",
-    "optimized_title": "Immunity: Metchnikoff's Medical Revolution",
-    "suggested_price": 68.95
+    "upc": "2022"
   },
   {
     "title": "Sorting the Beef from the Bull: The Science of Food Fraud Forensics",
     "price": 44.74,
     "currency": "USD",
     "description": "来自竞品监控",
-    "category": "Science Books",
+    "category": "科幻小说 - Science Books",
     "image_url": "https://books.toscrape.com/media/cache/68/ca/68caaf9ac41964d5167a3eb67c638393.jpg",
     "detail_url": "https://books.toscrape.com/catalogue/sorting-the-beef-from-the-bull-the-science-of-food-fraud-forensics_736/index.html",
     "stock_status": "In stock",
-    "upc": "2023",
-    "optimized_title": "Food Fraud Forensics: Spotting Fake & Adulterated Food",
-    "suggested_price": 53.69
+    "upc": "2023"
   },
   {
     "title": "Tipping Point for Planet Earth: How Close Are We to the Edge?",
     "price": 37.55,
     "currency": "USD",
     "description": "来自竞品监控",
-    "category": "Science & Environment",
+    "category": "科幻小说 - Science Books",
     "image_url": "https://books.toscrape.com/media/cache/56/97/5697f2f8f628129df01c5790985ffd9b.jpg",
     "detail_url": "https://books.toscrape.com/catalogue/tipping-point-for-planet-earth-how-close-are-we-to-the-edge_643/index.html",
     "stock_status": "In stock",
-    "upc": "2024",
-    "optimized_title": "Earth's Tipping Point: Are We Near the Edge?",
-    "suggested_price": 45.99
+    "upc": "2024"
   },
   {
     "title": "The Fabric of the Cosmos: Space, Time, and the Texture of Reality",
     "price": 55.91,
     "currency": "USD",
     "description": "来自竞品监控",
-    "category": "Science & Physics",
+    "category": "科幻小说 - Science Books",
     "image_url": "https://books.toscrape.com/media/cache/5e/7f/5e7f7d9913d4c95d33904770c518d537.jpg",
     "detail_url": "https://books.toscrape.com/catalogue/the-fabric-of-the-cosmos-space-time-and-the-texture-of-reality_572/index.html",
     "stock_status": "In stock",
-    "upc": "2025",
-    "optimized_title": "Space, Time & Reality: A Cosmic Journey",
-    "suggested_price": 67.99
+    "upc": "2025"
   },
   {
     "title": "Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World",
     "price": 28.41,
     "currency": "USD",
     "description": "来自竞品监控",
-    "category": "Science & Nature",
+    "category": "科幻小说 - Science Books",
     "image_url": "https://books.toscrape.com/media/cache/33/4f/334fd0ebdf0c0192baf5914d199c53b5.jpg",
     "detail_url": "https://books.toscrape.com/catalogue/diary-of-a-citizen-scientist-chasing-tiger-beetles-and-other-new-ways-of-engaging-the-world_517/index.html",
     "stock_status": "In stock",
-    "upc": "2026",
-    "optimized_title": "Citizen Scientist: Chasing Tiger Beetles & Nature",
-    "suggested_price": 34.09
+    "upc": "2026"
   },
   {
     "title": "The Origin of Species",
     "price": 10.01,
     "currency": "USD",
     "description": "来自竞品监控",
-    "category": "Science & Nature",
+    "category": "科幻小说 - Science Books",
     "image_url": "https://books.toscrape.com/media/cache/da/0d/da0d13699a090516502257a4d7da623f.jpg",
     "detail_url": "https://books.toscrape.com/catalogue/the-origin-of-species_499/index.html",
     "stock_status": "In stock",
-    "upc": "2027",
-    "optimized_title": "On the Origin of Species: Darwin’s Classic",
-    "suggested_price": 12.99
+    "upc": "2027"
   },
   {
     "title": "The Grand Design",
     "price": 13.76,
     "currency": "USD",
     "description": "来自竞品监控",
-    "category": "Science & Physics",
+    "category": "科幻小说 - Science Books",
     "image_url": "https://books.toscrape.com/media/cache/08/a9/08a957eb34f8047862e225774c3bdde2.jpg",
     "detail_url": "https://books.toscrape.com/catalogue/the-grand-design_405/index.html",
     "stock_status": "In stock",
-    "upc": "2028",
-    "optimized_title": "The Grand Design: Universe Explained",
-    "suggested_price": 16.99
+    "upc": "2028"
   },
   {
     "title": "Peak: Secrets from the New Science of Expertise",
     "price": 16.28,
     "currency": "USD",
     "description": "来自竞品监控",
-    "category": "Science Books",
+    "category": "科幻小说 - Science Books",
     "image_url": "https://books.toscrape.com/media/cache/83/ab/83ab65f938b24fa1a9cb47235be49b57.jpg",
     "detail_url": "https://books.toscrape.com/catalogue/peak-secrets-from-the-new-science-of-expertise_389/index.html",
     "stock_status": "In stock",
-    "upc": "2029",
-    "optimized_title": "Peak: The Science of Expertise Mastery",
-    "suggested_price": 19.95
+    "upc": "2029"
   },
   {
     "title": "The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",
     "price": 13.03,
     "currency": "USD",
     "description": "来自竞品监控",
-    "category": "Science & Physics",
+    "category": "科幻小说 - Science Books",
     "image_url": "https://books.toscrape.com/media/cache/69/c8/69c83860995cde393dbe6690ec3f1d4f.jpg",
     "detail_url": "https://books.toscrape.com/catalogue/the-elegant-universe-superstrings-hidden-dimensions-and-the-quest-for-the-ultimate-theory_245/index.html",
     "stock_status": "In stock",
-    "upc": "2030",
-    "optimized_title": "Elegant Universe: Superstrings & Hidden Dimensions",
-    "suggested_price": 15.99
+    "upc": "2030"
   },
   {
     "title": "The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",
     "price": 57.35,
     "currency": "USD",
     "description": "来自竞品监控",
-    "category": "Science & Chemistry",
+    "category": "科幻小说 - Science Books",
     "image_url": "https://books.toscrape.com/media/cache/f9/69/f969969428b505970a46272fdcea00d3.jpg",
     "detail_url": "https://books.toscrape.com/catalogue/the-disappearing-spoon-and-other-true-tales-of-madness-love-and-the-history-of-the-world-from-the-periodic-table-of-the-elements_244/index.html",
     "stock_status": "In stock",
-    "upc": "2031",
-    "optimized_title": "The Disappearing Spoon: Element Tales & History",
-    "suggested_price": 68.95
+    "upc": "2031"
   },
   {
     "title": "Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character",
     "price": 25.83,
     "currency": "USD",
     "description": "来自竞品监控",
-    "category": "Science & Biography",
+    "category": "科幻小说 - Science Books",
     "image_url": "https://books.toscrape.com/media/cache/f8/bc/f8bcd489d33473e0819beaecccd5ebac.jpg",
     "detail_url": "https://books.toscrape.com/catalogue/surely-youre-joking-mr-feynman-adventures-of-a-curious-character_227/index.html",
     "stock_status": "In stock",
-    "upc": "2032",
-    "optimized_title": "Feynman's Adventures: A Curious Mind",
-    "suggested_price": 30.99
+    "upc": "2032"
   },
   {
     "title": "Seven Brief Lessons on Physics",
     "price": 30.6,
     "currency": "USD",
     "description": "来自竞品监控",
-    "category": "Science & Nature",
+    "category": "科幻小说 - Science Books",
     "image_url": "https://books.toscrape.com/media/cache/c8/63/c863c222c130a1bc8685a1242dd2523d.jpg",
     "detail_url": "https://books.toscrape.com/catalogue/seven-brief-lessons-on-physics_219/index.html",
     "stock_status": "In stock",
-    "upc": "2033",
-    "optimized_title": "Physics Made Simple: 7 Lessons",
-    "suggested_price": 36.99
+    "upc": "2033"
   },
   {
     "title": "The Selfish Gene",
     "price": 29.45,
     "currency": "USD",
     "description": "来自竞品监控",
-    "category": "Science Books",
+    "category": "科幻小说 - Science Books",
     "image_url": "https://books.toscrape.com/media/cache/08/14/0814f26516fb72b7391d0a742b5928a2.jpg",
     "detail_url": "https://books.toscrape.com/catalogue/the-selfish-gene_81/index.html",
     "stock_status": "In stock",
-    "upc": "2034",
-    "optimized_title": "The Selfish Gene: Evolution's Masterpiece",
-    "suggested_price": 35.99
+    "upc": "2034"
   }
 ]

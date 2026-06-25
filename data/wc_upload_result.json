@@ -1,0 +1,246 @@
+{
+  "total": 34,
+  "success": 34,
+  "failed": 0,
+  "timestamp": "2026-06-25T13:28:19",
+  "results": [
+    {
+      "wc_id": 90,
+      "name": "Unicorn Tracks Fantasy Adventure Quest",
+      "price": "22.99",
+      "status": "success",
+      "sku": "2001"
+    },
+    {
+      "wc_id": 92,
+      "name": "Saga Vol. 6: Epic Space Fantasy Adventure",
+      "price": "29.99",
+      "status": "success",
+      "sku": "2002"
+    },
+    {
+      "wc_id": 94,
+      "name": "Princess Between Worlds: Magic &amp; Mystery",
+      "price": "16.99",
+      "status": "success",
+      "sku": "2003"
+    },
+    {
+      "wc_id": 96,
+      "name": "Masks and Shadows – Dark Fantasy Epic",
+      "price": "67.95",
+      "status": "success",
+      "sku": "2004"
+    },
+    {
+      "wc_id": 98,
+      "name": "Crown of Midnight: Throne of Glass #2",
+      "price": "51.99",
+      "status": "success",
+      "sku": "2005"
+    },
+    {
+      "wc_id": 100,
+      "name": "Avatar: Last Airbender: Smoke &amp; Shadow #3",
+      "price": "33.99",
+      "status": "success",
+      "sku": "2006"
+    },
+    {
+      "wc_id": 102,
+      "name": "A Court of Thorns and Roses Fantasy Romance",
+      "price": "62.95",
+      "status": "success",
+      "sku": "2007"
+    },
+    {
+      "wc_id": 104,
+      "name": "Throne of Glass: A Court of Thorns &amp; Roses Prequel",
+      "price": "42.0",
+      "status": "success",
+      "sku": "2008"
+    },
+    {
+      "wc_id": 106,
+      "name": "Glittering Court #1: Dazzling Fantasy Romance",
+      "price": "53.14",
+      "status": "success",
+      "sku": "2009"
+    },
+    {
+      "wc_id": 108,
+      "name": "Hollow City: Miss Peregrine's Peculiar Children #2",
+      "price": "51.99",
+      "status": "success",
+      "sku": "2010"
+    },
+    {
+      "wc_id": 110,
+      "name": "Star-Touched Queen: Enchanting Fantasy Romance",
+      "price": "55.22",
+      "status": "success",
+      "sku": "2011"
+    },
+    {
+      "wc_id": 112,
+      "name": "Apollo's Quest: The Hidden Oracle #1",
+      "price": "62.95",
+      "status": "success",
+      "sku": "2012"
+    },
+    {
+      "wc_id": 114,
+      "name": "The Bane Chronicles: Complete 11-Book Set",
+      "price": "53.95",
+      "status": "success",
+      "sku": "2013"
+    },
+    {
+      "wc_id": 116,
+      "name": "Island of Dragons: Unwanteds Book 7",
+      "price": "35.95",
+      "status": "success",
+      "sku": "2014"
+    },
+    {
+      "wc_id": 118,
+      "name": "Percy &amp; Annabeth Meet the Kanes: Crossover Set",
+      "price": "44.99",
+      "status": "success",
+      "sku": "2015"
+    },
+    {
+      "wc_id": 120,
+      "name": "Mortal Instruments 3: City of Glass",
+      "price": "67.99",
+      "status": "success",
+      "sku": "2016"
+    },
+    {
+      "wc_id": 122,
+      "name": "Quest for Meaning in Gailana",
+      "price": "46.49",
+      "status": "success",
+      "sku": "2017"
+    },
+    {
+      "wc_id": 124,
+      "name": "Enchanting Star-Touched Queen Fantasy Novel",
+      "price": "38.99",
+      "status": "success",
+      "sku": "2018"
+    },
+    {
+      "wc_id": 126,
+      "name": "Black Symphony: A Shard of Ice – Epic Fantasy Begins",
+      "price": "67.95",
+      "status": "success",
+      "sku": "2019"
+    },
+    {
+      "wc_id": 128,
+      "name": "King's Folly: Epic Fantasy Quest Begins",
+      "price": "47.99",
+      "status": "success",
+      "sku": "2020"
+    },
+    {
+      "wc_id": 130,
+      "name": "Inside a Bird's Egg: Nature's Perfect Wonder",
+      "price": "51.55",
+      "status": "success",
+      "sku": "2021"
+    },
+    {
+      "wc_id": 132,
+      "name": "Immunity: Metchnikoff's Medical Revolution",
+      "price": "68.95",
+      "status": "success",
+      "sku": "2022"
+    },
+    {
+      "wc_id": 134,
+      "name": "Food Fraud Forensics: Spotting Fake &amp; Adulterated Food",
+      "price": "53.69",
+      "status": "success",
+      "sku": "2023"
+    },
+    {
+      "wc_id": 136,
+      "name": "Earth's Tipping Point: Are We Near the Edge?",
+      "price": "45.99",
+      "status": "success",
+      "sku": "2024"
+    },
+    {
+      "wc_id": 138,
+      "name": "Space, Time &amp; Reality: A Cosmic Journey",
+      "price": "67.99",
+      "status": "success",
+      "sku": "2025"
+    },
+    {
+      "wc_id": 140,
+      "name": "Citizen Scientist: Chasing Tiger Beetles &amp; Nature",
+      "price": "34.09",
+      "status": "success",
+      "sku": "2026"
+    },
+    {
+      "wc_id": 142,
+      "name": "On the Origin of Species: Darwin’s Classic",
+      "price": "12.99",
+      "status": "success",
+      "sku": "2027"
+    },
+    {
+      "wc_id": 144,
+      "name": "The Grand Design: Universe Explained",
+      "price": "16.99",
+      "status": "success",
+      "sku": "2028"
+    },
+    {
+      "wc_id": 146,
+      "name": "Peak: The Science of Expertise Mastery",
+      "price": "19.95",
+      "status": "success",
+      "sku": "2029"
+    },
+    {
+      "wc_id": 148,
+      "name": "Elegant Universe: Superstrings &amp; Hidden Dimensions",
+      "price": "15.99",
+      "status": "success",
+      "sku": "2030"
+    },
+    {
+      "wc_id": 150,
+      "name": "The Disappearing Spoon: Element Tales &amp; History",
+      "price": "68.95",
+      "status": "success",
+      "sku": "2031"
+    },
+    {
+      "wc_id": 152,
+      "name": "Feynman's Adventures: A Curious Mind",
+      "price": "30.99",
+      "status": "success",
+      "sku": "2032"
+    },
+    {
+      "wc_id": 154,
+      "name": "Physics Made Simple: 7 Lessons",
+      "price": "36.99",
+      "status": "success",
+      "sku": "2033"
+    },
+    {
+      "wc_id": 156,
+      "name": "The Selfish Gene: Evolution's Masterpiece",
+      "price": "35.99",
+      "status": "success",
+      "sku": "2034"
+    }
+  ]
+}

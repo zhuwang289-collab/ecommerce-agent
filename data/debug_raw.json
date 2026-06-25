@@ -1,0 +1,32 @@
+[
+  {
+    "round": 1,
+    "question": "你们那个 Fjallraven 背包多少钱？",
+    "content_raw": "Fjallraven Foldsack No.1 Backpack 的价格是 109.95 USD，目前有库存。",
+    "content_type": "str",
+    "content_len": 56,
+    "content_is_none": false,
+    "content_stripped_empty": false,
+    "finish_reason": "stop"
+  },
+  {
+    "round": 2,
+    "question": "这个背包是什么材质的？",
+    "content_raw": "抱歉，关于背包的具体材质，商品描述里没有说明。这个我需要帮你确认一下，建议联系人工客服哦。",
+    "content_type": "str",
+    "content_len": 45,
+    "content_is_none": false,
+    "content_stripped_empty": false,
+    "finish_reason": "stop"
+  },
+  {
+    "round": 3,
+    "question": "下单后多久能发货？",
+    "content_raw": "这个我需要帮你确认一下，建议联系人工客服哦。",
+    "content_type": "str",
+    "content_len": 22,
+    "content_is_none": false,
+    "content_stripped_empty": false,
+    "finish_reason": "stop"
+  }
+]
